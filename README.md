@@ -1,3 +1,2 @@
-# ODL-S
-Tools and info for using Elbrys' OpenDaylight as a service (ODL-S).
+*MOVED* to https://github.com/Elbrys/SDN-Developer-Lab
 
